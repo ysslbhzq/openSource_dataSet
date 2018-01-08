@@ -36,3 +36,4 @@
               
 现在针对AddIPAddressFilter这个文件做了一个实例，但是仅在service_call_chn和service_call_chn给了一个AddIPAddressFilter_1文件，正常应该给7到8个文件，分别以_1,_2,_3,_4,_5,_6,_7,_8结尾
 
+注意：服务描述文件顺序，在git上的顺序和在本地的顺序可能有细微不同，按照git上的为准
