@@ -1,0 +1,1 @@
+Permit only certificates should be encoded using ASN.1 [X.681], [X.682], [X.683] DER [X.690] encoding rules
