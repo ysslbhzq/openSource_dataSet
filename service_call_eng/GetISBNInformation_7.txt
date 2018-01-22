@@ -1,0 +1,1 @@
+What the role ISBN or EAN bar code plays in GetISBNInformation DetailBook Information web services?

@@ -1,0 +1,1 @@
+How DetailGet Airport Code influences Airport Information Webservice in some ways?
