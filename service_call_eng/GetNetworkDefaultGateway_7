@@ -1,0 +1,1 @@
+Get the default gateway address 172.20.1.1 from the device by using the GetNetworkDefaultGateway command.
