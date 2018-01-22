@@ -1,0 +1,1 @@
+Delete the certificate of the hygrometer device, Certificates4, and the private key / public key pair coupled with the certificate. If the device does not support TLS or IEEE 802.1X, an error message is returned without deleting any certificates.

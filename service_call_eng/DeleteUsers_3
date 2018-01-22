@@ -1,0 +1,1 @@
+Delete user user3 on the thermometer device. If there is a fixed user on this device, you will not be allowed to delete the user and return an error message.

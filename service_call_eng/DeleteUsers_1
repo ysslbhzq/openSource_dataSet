@@ -1,0 +1,1 @@
+Delete user user1 on the sensor device, if there is a fixed user on this device, delete the user and return an error message.

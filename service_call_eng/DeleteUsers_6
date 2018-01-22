@@ -1,0 +1,1 @@
+Delete user6 on the smart curtain device. If there is a fixed user on this device, the user is not allowed to delete and return an error message.

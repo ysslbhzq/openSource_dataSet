@@ -1,0 +1,1 @@
+Delete user5 on the smartlight device. If there is a fixed user on this device, you will not be allowed to delete the user and return an error message.

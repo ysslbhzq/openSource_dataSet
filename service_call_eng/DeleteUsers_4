@@ -1,0 +1,1 @@
+Delete user4 from the hygrometer device, and if there is a fixed user on this device, delete the user and return an error message.

@@ -1,0 +1,1 @@
+Send a request to a sensor device that supports IEEE 802.1X, and "Dot1XConfigurationToken" specifies to delete the sensor name parameter configuration.

@@ -1,0 +1,1 @@
+Create and print barcodes in the US Mission application using the barcode generator in barcode format Postnet. This barcode returns a byte image with the image format EMF.

@@ -1,0 +1,1 @@
+Delete the access control device's Certificates7 and certificate-coupled private / public key pairs. If the device does not support TLS or IEEE 802.1X, an error message is returned without deleting any certificates.
