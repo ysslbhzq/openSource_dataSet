@@ -1,0 +1,1 @@
+ISBN or EAN bar代码登记信息网站服务通过ISBN或EAN bar代码实现，同时这一网站服务实现了获取ISBNInformation详述登记信息网站服务。
