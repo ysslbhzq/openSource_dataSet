@@ -1,0 +1,1 @@
+此操作从设备获取默认网关设置。该设备应该支持GetNetworkDefaultGateway命令返回配置的默认网关地址。
