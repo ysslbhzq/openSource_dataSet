@@ -1,0 +1,1 @@
+getACHByZipCode：FedACH电子支付路由目录为FedACH交易和Fedwire基金和账簿证券传输提供基本的路由信息。这个Web服务通过他们的名字，位置（州，州和城市）或者路由号码来搜索FedACH参与者RDFI。ZipCode可调用他们的参与者。
