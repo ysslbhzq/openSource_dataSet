@@ -1,0 +1,1 @@
+EDACH详情。电子支付路由目录为FedACH交易和Fedwire资金和簿记安全传输提供基本的路由信息。这个Web服务通过他们的名字，位置（国家，或州或城市）或路由号码搜索fedACH参与者的rdfi，fedACH参与者的rdfi由zipcode指定生成。
