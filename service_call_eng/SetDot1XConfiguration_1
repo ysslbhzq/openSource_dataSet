@@ -1,0 +1,1 @@
+If the CreateDot1XConfiguration command attempts to create a new configuration parameter set, modify the device's existing IEEE 802.1X configuration parameter set.

@@ -1,0 +1,1 @@
+当CreateDot1XConfiguration命令尝试创建新的配置参数集时，此操作将修改设备的现有IEEE 802.1X配置参数集。 支持IEEE 802.1X的设备应该支持这个命令。
